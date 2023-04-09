@@ -3,13 +3,27 @@ package com.target.processoSeletivo.model;
 public class Rendimento {
     private int dia;
     private double valor;
-    private double menorValor;
-    private double maiorValor;
-    private double mediaMensal;
+    private static double valorTotal;
+    public static double menorValor;
+    public static double maiorValor;
+    public static double mediaMensal ;
+    private static int numberRendimento ;
 
     public Rendimento(int dia, double valor) {
         this.dia = dia;
         this.valor = valor;
+        numberRendimento++;
+        valorTotal += valor;
+
+        if (valor < menorValor){
+            menorValor = valor;
+        }
+        if (valor > maiorValor){
+            maiorValor = valor;
+        }
+
+        mediaMensal = valorTotal/numberRendimento;
+
     }
 
     public int getDia() {
@@ -38,5 +52,9 @@ public class Rendimento {
 
     public double getMediaMensal() {
         return mediaMensal;
+    }
+
+    public double getValorTotal() {
+        return valorTotal;
     }
 }
