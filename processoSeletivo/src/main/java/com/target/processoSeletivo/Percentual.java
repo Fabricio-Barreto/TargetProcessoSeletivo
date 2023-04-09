@@ -1,4 +1,6 @@
-import model.Distribuidora;
+package com.target.processoSeletivo;
+
+import com.target.processoSeletivo.model.Distribuidora;
 
 public class Percentual {
 
@@ -19,3 +21,5 @@ public class Percentual {
     }
 
 }
+
+

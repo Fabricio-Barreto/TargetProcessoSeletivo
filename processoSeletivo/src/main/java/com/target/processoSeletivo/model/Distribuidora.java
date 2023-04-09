@@ -1,4 +1,4 @@
-package model;
+package com.target.processoSeletivo.model;
 
 public class Distribuidora {
     private String estado;
