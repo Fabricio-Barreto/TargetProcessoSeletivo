@@ -43,7 +43,7 @@ public class Faturamento {
         System.out.println("O maior valor é  : " + Rendimento.maiorValor);
 
         System.out.println("");
-        
+
         for (Rendimento rendimento:rendimentos) {
             if (rendimento.getValor() > Rendimento.mediaMensal){
                 diasFaturamentoMenorQueMedia++;
