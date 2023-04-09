@@ -5,27 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68d5c92d-8411-4a1e-a08d-356203936bbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Faturamento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/InverterString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Percentual.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/files/dados.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Distribuidora.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/model/Faturamento.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Faturamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InverterString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Percentual.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/dados.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Distribuidora.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Faturamento.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/processoSeletivo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processoSeletivo/src/test/java/com/target/processoSeletivo/InverterString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processoSeletivo/src/test/java/com/target/processoSeletivo/Percentual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/processoSeletivo/src/test/java/com/target/processoSeletivo/model/Distribuidora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/Faturamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/InverterString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/Percentual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/ProcessoSeletivoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/files/dados.json" beforeDir="false" afterPath="$PROJECT_DIR$/processoSeletivo/src/test/java/com/target/processoSeletivo/files/dados.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/model/Distribuidora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/src/main/java/com/target/processoSeletivo/model/Faturamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processoSeletivo/target/test-classes/com/target/processoSeletivo/ProcessoSeletivoApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Micro/Documents/TargetProcessoSeletivo/TargetProcessoSeletivo/processoSeletivo"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Micro/Documents/TargetProcessoSeletivo/TargetProcessoSeletivo/processoSeletivo&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Micro\Documents\TargetProcessoSeletivo\untitled\src\files" />
